@@ -31,7 +31,7 @@ An engaging and interactive number-guessing game where players try to guess a ra
 ## Installation and Usage
 
 1. Clone or download the repository.
-2. Open the `index.html` file in any modern web browser.
+2. Open the `number guess.html` file in any modern web browser.
 3. Enjoy the game and challenge yourself to guess the right number!
 
 ## Future Enhancements
